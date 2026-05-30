@@ -142,13 +142,4 @@ available in the [`docs/`](docs/) folder.
 - Rendering directly to the transparent OLED layer for true heads-up projection.
 - On-device route caching and incremental re-routing.
 
-## Team & acknowledgments
 
-Built as a team project for **ECE 441 at Illinois Institute of Technology**. This repository
-is maintained by [@Hardovskyi](https://github.com/Hardovskyi) (Daniil Skvyrskyi), who
-contributed to map generation, route planning, dynamic-zoom rendering, and ETA. Thanks to
-the full Team 1 for collaboration across hardware, software, and HUD optics.
-
----
-
-*Maintained by Daniil Skvyrskyi · [LinkedIn](https://linkedin.com/in/daniil-skvyrskyi/)*
